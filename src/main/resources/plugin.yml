@@ -1,0 +1,5 @@
+name: NinRequirePlugins
+version: ${project.version}
+author: Ninjoh
+main: com.gitlab.martijn_heil.ninrequireplugins.NinRequirePlugins
+api-version: 1.18
